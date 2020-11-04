@@ -7,7 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		60A4A49B25440A9000D0FFF5 /* 201016.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A49A25440A9000D0FFF5 /* 201016.swift */; };
+		60A4A49E25440DF700D0FFF5 /* 201018.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A49D25440DF700D0FFF5 /* 201018.swift */; };
+		60A4A4A1254547EC00D0FFF5 /* 201025.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4A0254547EC00D0FFF5 /* 201025.swift */; };
+		60A4A4A42546F5DF00D0FFF5 /* 201026.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4A32546F5DE00D0FFF5 /* 201026.swift */; };
+		60A4A4A72547F09500D0FFF5 /* 201027(TreeNode).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4A62547F09500D0FFF5 /* 201027(TreeNode).swift */; };
+		60A4A4AA25490A7300D0FFF5 /* 201028.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4A925490A7300D0FFF5 /* 201028.swift */; };
+		60A4A4AD254A49C900D0FFF5 /* 201029.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4AC254A49C900D0FFF5 /* 201029.swift */; };
+		60A4A4B1254BA45000D0FFF5 /* 201030.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4B0254BA45000D0FFF5 /* 201030.swift */; };
+		60A4A4BC254F89F400D0FFF5 /* 201102.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4BB254F89F400D0FFF5 /* 201102.swift */; };
+		60A4A4C12550F41C00D0FFF5 /* 201103.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4C02550F41C00D0FFF5 /* 201103.swift */; };
+		60A4A4C4255231F800D0FFF5 /* 201104.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4C3255231F800D0FFF5 /* 201104.swift */; };
+		60A4A4C72552479C00D0FFF5 /* 200906(梦开始的地方,还是抄的).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4C62552479C00D0FFF5 /* 200906(梦开始的地方,还是抄的).swift */; };
+		60A4A4CC2552482300D0FFF5 /* 200910.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4CB2552482300D0FFF5 /* 200910.swift */; };
+		60A4A4D62552491400D0FFF5 /* 200908(回溯的梦).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4D52552491400D0FFF5 /* 200908(回溯的梦).swift */; };
+		60A4A4DA2552499900D0FFF5 /* 200909.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4D92552499900D0FFF5 /* 200909.swift */; };
+		60A4A4DD255249DD00D0FFF5 /* 200911.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4DC255249DD00D0FFF5 /* 200911.swift */; };
+		60A4A4E025524A1200D0FFF5 /* 200912(nm).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4DF25524A1200D0FFF5 /* 200912(nm).swift */; };
+		60A4A4E425524AC300D0FFF5 /* 200915(解数独).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4E325524AC300D0FFF5 /* 200915(解数独).swift */; };
+		60A4A4E725524B2600D0FFF5 /* 200916.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4E625524B2600D0FFF5 /* 200916.swift */; };
+		60A4A4EA25524B7B00D0FFF5 /* 200917.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4E925524B7B00D0FFF5 /* 200917.swift */; };
+		60A4A4ED25524BAE00D0FFF5 /* 200919.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4EC25524BAD00D0FFF5 /* 200919.swift */; };
+		60A4A4F025524CD200D0FFF5 /* 200929.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4EF25524CD200D0FFF5 /* 200929.swift */; };
+		60A4A4F325524D5500D0FFF5 /* 200930.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4A4F225524D5500D0FFF5 /* 200930.swift */; };
 		60C7574D2532B232003289C3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60C7574C2532B232003289C3 /* main.swift */; };
+		60C757552532B35E003289C3 /* 201011.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60C757542532B35E003289C3 /* 201011.swift */; };
+		60C757592533FB35003289C3 /* 201012.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60C757582533FB35003289C3 /* 201012.swift */; };
+		60C7575E2533FCE1003289C3 /* 201009.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60C7575B2533FCE1003289C3 /* 201009.swift */; };
+		60C7575F2533FCE1003289C3 /* 201008.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60C7575C2533FCE1003289C3 /* 201008.swift */; };
+		60C757602533FCE1003289C3 /* 201010.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60C7575D2533FCE1003289C3 /* 201010.swift */; };
+		60C7576925357313003289C3 /* 201013.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60C7576825357313003289C3 /* 201013.swift */; };
+		60C7576C25369425003289C3 /* 201014.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60C7576B25369425003289C3 /* 201014.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +53,38 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		60A4A49A25440A9000D0FFF5 /* 201016.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201016.swift; sourceTree = "<group>"; };
+		60A4A49D25440DF700D0FFF5 /* 201018.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201018.swift; sourceTree = "<group>"; };
+		60A4A4A0254547EC00D0FFF5 /* 201025.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201025.swift; sourceTree = "<group>"; };
+		60A4A4A32546F5DE00D0FFF5 /* 201026.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201026.swift; sourceTree = "<group>"; };
+		60A4A4A62547F09500D0FFF5 /* 201027(TreeNode).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "201027(TreeNode).swift"; sourceTree = "<group>"; };
+		60A4A4A925490A7300D0FFF5 /* 201028.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201028.swift; sourceTree = "<group>"; };
+		60A4A4AC254A49C900D0FFF5 /* 201029.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201029.swift; sourceTree = "<group>"; };
+		60A4A4B0254BA45000D0FFF5 /* 201030.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201030.swift; sourceTree = "<group>"; };
+		60A4A4BB254F89F400D0FFF5 /* 201102.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201102.swift; sourceTree = "<group>"; };
+		60A4A4C02550F41C00D0FFF5 /* 201103.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201103.swift; sourceTree = "<group>"; };
+		60A4A4C3255231F800D0FFF5 /* 201104.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201104.swift; sourceTree = "<group>"; };
+		60A4A4C62552479C00D0FFF5 /* 200906(梦开始的地方,还是抄的).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200906(梦开始的地方,还是抄的).swift"; sourceTree = "<group>"; };
+		60A4A4CB2552482300D0FFF5 /* 200910.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 200910.swift; sourceTree = "<group>"; };
+		60A4A4D52552491400D0FFF5 /* 200908(回溯的梦).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200908(回溯的梦).swift"; sourceTree = "<group>"; };
+		60A4A4D92552499900D0FFF5 /* 200909.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 200909.swift; sourceTree = "<group>"; };
+		60A4A4DC255249DD00D0FFF5 /* 200911.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 200911.swift; sourceTree = "<group>"; };
+		60A4A4DF25524A1200D0FFF5 /* 200912(nm).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200912(nm).swift"; sourceTree = "<group>"; };
+		60A4A4E325524AC300D0FFF5 /* 200915(解数独).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200915(解数独).swift"; sourceTree = "<group>"; };
+		60A4A4E625524B2600D0FFF5 /* 200916.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 200916.swift; sourceTree = "<group>"; };
+		60A4A4E925524B7B00D0FFF5 /* 200917.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 200917.swift; sourceTree = "<group>"; };
+		60A4A4EC25524BAD00D0FFF5 /* 200919.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 200919.swift; sourceTree = "<group>"; };
+		60A4A4EF25524CD200D0FFF5 /* 200929.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 200929.swift; sourceTree = "<group>"; };
+		60A4A4F225524D5500D0FFF5 /* 200930.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 200930.swift; sourceTree = "<group>"; };
 		60C757492532B232003289C3 /* Leetcode Every */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Leetcode Every"; sourceTree = BUILT_PRODUCTS_DIR; };
 		60C7574C2532B232003289C3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		60C757542532B35E003289C3 /* 201011.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201011.swift; sourceTree = "<group>"; };
+		60C757582533FB35003289C3 /* 201012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201012.swift; sourceTree = "<group>"; };
+		60C7575B2533FCE1003289C3 /* 201009.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 201009.swift; sourceTree = "<group>"; };
+		60C7575C2533FCE1003289C3 /* 201008.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 201008.swift; sourceTree = "<group>"; };
+		60C7575D2533FCE1003289C3 /* 201010.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 201010.swift; sourceTree = "<group>"; };
+		60C7576825357313003289C3 /* 201013.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201013.swift; sourceTree = "<group>"; };
+		60C7576B25369425003289C3 /* 201014.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 201014.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +98,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		60A4A4BE254F89FA00D0FFF5 /* 11月 */ = {
+			isa = PBXGroup;
+			children = (
+				60A4A4BB254F89F400D0FFF5 /* 201102.swift */,
+				60A4A4C02550F41C00D0FFF5 /* 201103.swift */,
+				60A4A4C3255231F800D0FFF5 /* 201104.swift */,
+			);
+			path = "11月";
+			sourceTree = "<group>";
+		};
+		60A4A4C9255247A500D0FFF5 /* 9月 */ = {
+			isa = PBXGroup;
+			children = (
+				60A4A4C62552479C00D0FFF5 /* 200906(梦开始的地方,还是抄的).swift */,
+				60A4A4D52552491400D0FFF5 /* 200908(回溯的梦).swift */,
+				60A4A4D92552499900D0FFF5 /* 200909.swift */,
+				60A4A4CB2552482300D0FFF5 /* 200910.swift */,
+				60A4A4DC255249DD00D0FFF5 /* 200911.swift */,
+				60A4A4DF25524A1200D0FFF5 /* 200912(nm).swift */,
+				60A4A4E325524AC300D0FFF5 /* 200915(解数独).swift */,
+				60A4A4E625524B2600D0FFF5 /* 200916.swift */,
+				60A4A4E925524B7B00D0FFF5 /* 200917.swift */,
+				60A4A4EC25524BAD00D0FFF5 /* 200919.swift */,
+				60A4A4EF25524CD200D0FFF5 /* 200929.swift */,
+				60A4A4F225524D5500D0FFF5 /* 200930.swift */,
+			);
+			path = "9月";
+			sourceTree = "<group>";
+		};
 		60C757402532B232003289C3 = {
 			isa = PBXGroup;
 			children = (
@@ -58,8 +147,33 @@
 			isa = PBXGroup;
 			children = (
 				60C7574C2532B232003289C3 /* main.swift */,
+				60A4A4C9255247A500D0FFF5 /* 9月 */,
+				60C757572533FAC3003289C3 /* 10月 */,
+				60A4A4BE254F89FA00D0FFF5 /* 11月 */,
 			);
 			path = "Leetcode Every";
+			sourceTree = "<group>";
+		};
+		60C757572533FAC3003289C3 /* 10月 */ = {
+			isa = PBXGroup;
+			children = (
+				60C7575C2533FCE1003289C3 /* 201008.swift */,
+				60C7575B2533FCE1003289C3 /* 201009.swift */,
+				60C7575D2533FCE1003289C3 /* 201010.swift */,
+				60C757542532B35E003289C3 /* 201011.swift */,
+				60C757582533FB35003289C3 /* 201012.swift */,
+				60C7576825357313003289C3 /* 201013.swift */,
+				60C7576B25369425003289C3 /* 201014.swift */,
+				60A4A49A25440A9000D0FFF5 /* 201016.swift */,
+				60A4A49D25440DF700D0FFF5 /* 201018.swift */,
+				60A4A4A0254547EC00D0FFF5 /* 201025.swift */,
+				60A4A4A32546F5DE00D0FFF5 /* 201026.swift */,
+				60A4A4A62547F09500D0FFF5 /* 201027(TreeNode).swift */,
+				60A4A4A925490A7300D0FFF5 /* 201028.swift */,
+				60A4A4AC254A49C900D0FFF5 /* 201029.swift */,
+				60A4A4B0254BA45000D0FFF5 /* 201030.swift */,
+			);
+			path = "10月";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +233,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60C7575E2533FCE1003289C3 /* 201009.swift in Sources */,
+				60C7575F2533FCE1003289C3 /* 201008.swift in Sources */,
+				60C7576925357313003289C3 /* 201013.swift in Sources */,
+				60A4A4E425524AC300D0FFF5 /* 200915(解数独).swift in Sources */,
+				60A4A4AD254A49C900D0FFF5 /* 201029.swift in Sources */,
+				60A4A4E725524B2600D0FFF5 /* 200916.swift in Sources */,
+				60A4A4DD255249DD00D0FFF5 /* 200911.swift in Sources */,
+				60A4A4C72552479C00D0FFF5 /* 200906(梦开始的地方,还是抄的).swift in Sources */,
+				60A4A49E25440DF700D0FFF5 /* 201018.swift in Sources */,
+				60C757592533FB35003289C3 /* 201012.swift in Sources */,
+				60A4A4D62552491400D0FFF5 /* 200908(回溯的梦).swift in Sources */,
+				60C757602533FCE1003289C3 /* 201010.swift in Sources */,
+				60A4A4E025524A1200D0FFF5 /* 200912(nm).swift in Sources */,
+				60A4A4ED25524BAE00D0FFF5 /* 200919.swift in Sources */,
+				60A4A4C4255231F800D0FFF5 /* 201104.swift in Sources */,
+				60A4A4DA2552499900D0FFF5 /* 200909.swift in Sources */,
+				60A4A4A42546F5DF00D0FFF5 /* 201026.swift in Sources */,
+				60A4A4C12550F41C00D0FFF5 /* 201103.swift in Sources */,
+				60A4A4F025524CD200D0FFF5 /* 200929.swift in Sources */,
+				60A4A4BC254F89F400D0FFF5 /* 201102.swift in Sources */,
+				60A4A4F325524D5500D0FFF5 /* 200930.swift in Sources */,
+				60A4A4EA25524B7B00D0FFF5 /* 200917.swift in Sources */,
+				60C757552532B35E003289C3 /* 201011.swift in Sources */,
+				60A4A4A1254547EC00D0FFF5 /* 201025.swift in Sources */,
+				60A4A49B25440A9000D0FFF5 /* 201016.swift in Sources */,
+				60A4A4AA25490A7300D0FFF5 /* 201028.swift in Sources */,
 				60C7574D2532B232003289C3 /* main.swift in Sources */,
+				60A4A4B1254BA45000D0FFF5 /* 201030.swift in Sources */,
+				60A4A4A72547F09500D0FFF5 /* 201027(TreeNode).swift in Sources */,
+				60C7576C25369425003289C3 /* 201014.swift in Sources */,
+				60A4A4CC2552482300D0FFF5 /* 200910.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
